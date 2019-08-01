@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+.pagenotfound-image-center {
+    position: absolute;
+    margin-left: 150px;
+}
+
+.notauthorized-image-center {
+    margin-top: 100px;
+    margin-left: 173px;
+}
